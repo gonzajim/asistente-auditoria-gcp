@@ -8,7 +8,7 @@ import os
 
 st.set_page_config(page_title="Auditoría Sostenible", layout="wide")
 
-st.title("Asistente de Auditoría de Sostenibilidad")
+st.title("Auditor de Sostenibilidad Recava")
 
 session_id = st.text_input("Introduce tu identificador de sesión:")
 
