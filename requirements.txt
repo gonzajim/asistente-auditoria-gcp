@@ -1,0 +1,12 @@
+streamlit
+langchain
+google-cloud-firestore
+google-cloud-storage
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-docx
+neo4j
+openai
+reportlab
+PyPDF2
